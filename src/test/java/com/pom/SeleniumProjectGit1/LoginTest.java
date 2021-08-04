@@ -7,7 +7,8 @@ public class LoginTest {
 	String name;
 	int j;
 	int k;
-	int f;
+	
+	
 	
 	public static void main(String[] args) {
 		
